@@ -1,2 +1,1 @@
-## Namaste
-I like music and tech.
+## Namastē
