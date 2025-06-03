@@ -1,2 +1,1 @@
 ## Namastē
-music, tech, games
