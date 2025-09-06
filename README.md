@@ -2,7 +2,7 @@
   <img src="roll.gif" alt="" />
 </p>
 <styles>
-  img{
+  .img{
   width: 200px;
   height: auto;
   }
