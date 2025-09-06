@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="horse.gif" alt="" />
+  <img src="roll.gif" alt="" />
 </p>
